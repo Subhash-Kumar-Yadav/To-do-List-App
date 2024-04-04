@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865886187037",
+    "project_id": "dailymanagementapp",
+    "storage_bucket": "dailymanagementapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865886187037:android:a4cb219d31002902c8a0f4",
+        "android_client_info": {
+          "package_name": "com.example.dailymanagementapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB11KR4HHxzK72HsN5qvJHrrsa6eOGZOUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
